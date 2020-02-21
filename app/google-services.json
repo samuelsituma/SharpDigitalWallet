@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458745615253",
+    "firebase_url": "https://sharpdigitalpayment.firebaseio.com",
+    "project_id": "sharpdigitalpayment",
+    "storage_bucket": "sharpdigitalpayment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458745615253:android:50139006621031156f1c9c",
+        "android_client_info": {
+          "package_name": "com.samuelsituma.sharpdigitalwalet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458745615253-eid547kk3ofok077c2efje0s5flblbvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDStf-Gnxbqj1Zxm0mg73LQ3BTJYoeyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458745615253-eid547kk3ofok077c2efje0s5flblbvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
